@@ -78,7 +78,11 @@
 		        },
 			"access": {
 				"landingPage": "http://www.blueprintatlas.org/static/download/",
-				"annotation": "public"
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
 			}
 		}
 	],
