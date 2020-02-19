@@ -77,7 +77,8 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "http://www.blueprintatlas.org/static/download/"
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"annotation": "public"
 			}
 		}
 	],
