@@ -68,8 +68,8 @@
 	"distributions": [
 	        {
 			"formats": [
-				".cel",
-				".jpg",
+				".CEL",
+				".JPG",
 				"DICOM"
             		],
 			"size" : 7,
