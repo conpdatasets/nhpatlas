@@ -125,6 +125,18 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Normalised macrodissection microarray expression values + probe and sample metadata",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/298764384",
 				"description": "Zipped file archive"
@@ -144,6 +156,18 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Meta-information and URLs for downloading raw microarray files",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/microarray/well_data_files.xml",
 				"description": "xml file"
@@ -163,6 +187,18 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Neuroanatomical guides for prenatal LMD sample isolation",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://download.alleninstitute.org/nhp/Prenatal_Macaque_LMD_Microarray/neuroanatomical_guides_for_LMD_sampling/",
 				"description": "Directory containing 144 .JPG files + 1 summary document"
@@ -182,6 +218,18 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Transcriptional architecture of the primate neocortex",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://download.alleninstitute.org/nhp/Transcriptional_Architecture_of_the_Primate_Neocortex/",
 				"description": "Directory containing 226 .CEL files + 3 summary/metadata documents"
@@ -201,12 +249,24 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 1",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/147139113",
 				"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 1"
 			}
 		},
-{
+		{
 			"title":"14447_MRI.zip",
 			"creators": [
 				{
@@ -220,12 +280,24 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 2",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/147139119",
 				"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 2"
 			}
 		},
-{
+		{
 			"title":"14868_MRI.zip",
 			"creators": [
 				{
@@ -239,6 +311,18 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 3",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/147139125",
 				"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 3"
