@@ -106,6 +106,18 @@
 					}
 				}
 			],
+			"licenses": [
+				{
+					"name": "https://alleninstitute.org/legal/terms-use/"
+				}
+			],
+			"description": "Normalised LMD microarray expression values + probe and sample metadata",
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/298764404",
 				"description": "Zipped file archive"
