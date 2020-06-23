@@ -112,6 +112,27 @@
 				}
 			],
 			"description": "Normalised LMD microarray expression values + probe and sample metadata",
+		"distributions": [
+		        {
+				"formats": [
+					".CEL",
+					".JPG",
+					"DICOM"
+            			],
+				"size" : 744,
+		        "unit" : {
+            				"value": "MB"
+		       	},
+				"access": {
+					"landingPage": "http://www.blueprintatlas.org/static/download/",
+					"authorizations": [
+						{
+							"value": "public"
+						}
+					]
+				}
+			}
+		],
 			"keywords": [
 				{
 					"value" : "transcriptomics"
@@ -148,6 +169,28 @@
 					"value" : "transcriptomics"
 				}
 			],
+	"distributions": [
+	        {
+			"formats": [
+				".CEL",
+				".JPG",
+				"DICOM"
+            ],
+			"size" : 25,
+		        "unit" : {
+            			"value": "MB"
+		        },
+			"access": {
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+
 			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/298764384",
@@ -179,6 +222,28 @@
 					"value" : "transcriptomics"
 				}
 			],
+	"distributions": [
+	        {
+			"formats": [
+				".CEL",
+				".JPG",
+				"DICOM"
+            		],
+			"size" : 1.67,
+		        "unit" : {
+            			"value": "MB"
+		        },
+			"access": {
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+
 			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/microarray/well_data_files.xml",
@@ -210,6 +275,28 @@
 					"value" : "transcriptomics"
 				}
 			],
+	"distributions": [
+	        {
+			"formats": [
+				".CEL",
+				".JPG",
+				"DICOM"
+            		],
+			"size" : 1,
+		        "unit" : {
+            			"value": "KB"
+		        },
+			"access": {
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+
 			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://download.alleninstitute.org/nhp/Prenatal_Macaque_LMD_Microarray/neuroanatomical_guides_for_LMD_sampling/",
@@ -241,6 +328,28 @@
 					"value" : "transcriptomics"
 				}
 			],
+	"distributions": [
+	        {
+			"formats": [
+				".CEL",
+				".JPG",
+				"DICOM"
+            		],
+			"size" : 52,
+		        "unit" : {
+            			"value": "KB"
+		        },
+			"access": {
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+
 			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://download.alleninstitute.org/nhp/Transcriptional_Architecture_of_the_Primate_Neocortex/",
@@ -272,6 +381,28 @@
 					"value" : "transcriptomics"
 				}
 			],
+	"distributions": [
+	        {
+			"formats": [
+				".CEL",
+				".JPG",
+				"DICOM"
+            		],
+			"size" : 4.5,
+		        "unit" : {
+            			"value": "MB"
+		        },
+			"access": {
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+
 			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/147139113",
@@ -302,7 +433,28 @@
 				{
 					"value" : "transcriptomics"
 				}
-			],
+			],	"distributions": [
+	        {
+			"formats": [
+				".CEL",
+				".JPG",
+				"DICOM"
+            		],
+			"size" : 4.0,
+		        "unit" : {
+            			"value": "MB"
+		        },
+			"access": {
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+
 			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/147139119",
@@ -333,7 +485,28 @@
 				{
 					"value" : "transcriptomics"
 				}
-			],
+			],	"distributions": [
+	        {
+			"formats": [
+				".CEL",
+				".JPG",
+				"DICOM"
+            		],
+			"size" : 4.2,
+		        "unit" : {
+            			"value": "MB"
+		        },
+			"access": {
+				"landingPage": "http://www.blueprintatlas.org/static/download/",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+
 			"version": "1.0.0",
 			"storedIn": {
 				"name": "http://blueprintnhpatlas.org/api/v2/well_known_file_download/147139125",
