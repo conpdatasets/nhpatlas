@@ -175,10 +175,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "36"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "1"
 						}
 					]
 				}
@@ -282,10 +290,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "36"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "1"
 						}
 					]
 				}
@@ -384,10 +400,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "36"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "1"
 						}
 					]
 				}
@@ -486,10 +510,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "24"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "145"
 						}
 					]
 				}
@@ -588,10 +620,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "36"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "229"
 						}
 					]
 				}
@@ -690,10 +730,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "1"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "1"
 						}
 					]
 				}
@@ -792,10 +840,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "1"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "1"
 						}
 					]
 				}
@@ -894,10 +950,18 @@
 					]
 				},
 				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "1"
+						}
+					]
+				},
+				{
 					"category": "files",
 					"values": [
 						{
-							"value": "385"
+							"value": "1"
 						}
 					]
 				}
@@ -955,6 +1019,14 @@
 			"values": [
 				{
 					"value": "USA"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "36"
 				}
 			]
 		},
