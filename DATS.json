@@ -4,7 +4,7 @@
 		"identifierSource": "DOI"
 	},
 	"version": "1.0.0",
-	"privacy": "public open",
+	"privacy": "open",
 	"licenses": [
 		{
 			"name": "https://alleninstitute.org/legal/terms-use/"
@@ -18,7 +18,11 @@
 	"types": [
 		{
 			"information": {
-				"value": "transcriptomics"
+                "identifier": {
+                    "identifier": "ilx_0739406",
+                    "identifierSource":"http://uri.interlex.org/ilx_0739406"
+                },
+			  	"value": "trarmationscriptomics"
 			}
 		}
 	],
