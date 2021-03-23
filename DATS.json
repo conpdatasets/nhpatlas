@@ -92,7 +92,11 @@
 	],
 	"keywords": [
 		{
-			"value" : "transcriptomics"
+    	    "identifier": {
+        	    "identifier": "ilx_0739406",
+                "identifierSource":"http://uri.interlex.org/ilx_0739406"
+           	},
+ 			"value" : "transcriptomics"
 		}
 	],
 	"hasPart": [
@@ -197,7 +201,11 @@
 			],
 			"keywords": [
 				{
-					"value" : "transcriptomics"
+      		        "identifier": {
+            	        "identifier": "ilx_0739406",
+                	    "identifierSource":"http://uri.interlex.org/ilx_0739406"
+                	},
+ 					"value" : "transcriptomics"
 				}
 			],
 			"version": "1.0.0",
@@ -228,7 +236,11 @@
 			"description": "Normalised macrodissection microarray expression values + probe and sample metadata",
 			"keywords": [
 				{
-					"value" : "transcriptomics"
+	                "identifier": {
+    	                "identifier": "ilx_0739406",
+        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
+            	    },
+ 					"value" : "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -338,7 +350,11 @@
 			"description": "Meta-information and URLs for downloading raw microarray files",
 			"keywords": [
 				{
-					"value" : "transcriptomics"
+	                "identifier": {
+    	                "identifier": "ilx_0739406",
+        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
+            	    },
+ 					"value" : "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -448,7 +464,11 @@
 			"description": "Neuroanatomical guides for prenatal LMD sample isolation",
 			"keywords": [
 				{
-					"value" : "transcriptomics"
+ 	               "identifier": {
+    	                "identifier": "ilx_0739406",
+        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
+            	    },
+ 					"value" : "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -558,7 +578,11 @@
 			"description": "Transcriptional architecture of the primate neocortex",
 			"keywords": [
 				{
-					"value" : "transcriptomics"
+   	             	"identifier": {
+    	                "identifier": "ilx_0739406",
+        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
+            	    },
+ 					"value" : "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -778,7 +802,11 @@
 			"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 2",
 			"keywords": [
 				{
-					"value" : "transcriptomics"
+         	       "identifier": {
+            	        "identifier": "ilx_0739406",
+                	    "identifierSource":"http://uri.interlex.org/ilx_0739406"
+                	},
+ 					"value" : "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -888,7 +916,11 @@
 			"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 3",
 			"keywords": [
 				{
-					"value" : "transcriptomics"
+ 	               "identifier": {
+    	                "identifier": "ilx_0739406",
+        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
+            	    },
+ 					"value" : "transcriptomics"
 				}
 			],
 			"distributions": [
