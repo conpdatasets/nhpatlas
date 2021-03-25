@@ -17,13 +17,11 @@
 	],
 	"types": [
 		{
-			"information": {
-                "identifier": {
-                    "identifier": "ilx_0739406",
-                    "identifierSource":"http://uri.interlex.org/ilx_0739406"
-                },
-			  	"value": "trarmationscriptomics"
-			}
+            "identifier": {
+                "identifier": "ilx_0739406",
+                "identifierSource":"http://uri.interlex.org/ilx_0739406"
+            },
+		  	"value": "trarmationscriptomics"
 		}
 	],
 	"title": "NIH Blueprint Non-Human Primate Atlas",
@@ -92,10 +90,7 @@
 	],
 	"keywords": [
 		{
-    	    "identifier": {
-        	    "identifier": "ilx_0739406",
-                "identifierSource":"http://uri.interlex.org/ilx_0739406"
-           	},
+            "valueIRI":"http://uri.interlex.org/ilx_0739406",
  			"value" : "transcriptomics"
 		}
 	],
@@ -201,10 +196,7 @@
 			],
 			"keywords": [
 				{
-      		        "identifier": {
-            	        "identifier": "ilx_0739406",
-                	    "identifierSource":"http://uri.interlex.org/ilx_0739406"
-                	},
+               	    "valueIRI":"http://uri.interlex.org/ilx_0739406",
  					"value" : "transcriptomics"
 				}
 			],
@@ -236,10 +228,7 @@
 			"description": "Normalised macrodissection microarray expression values + probe and sample metadata",
 			"keywords": [
 				{
-	                "identifier": {
-    	                "identifier": "ilx_0739406",
-        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
-            	    },
+       	            "valueIRI":"http://uri.interlex.org/ilx_0739406",
  					"value" : "transcriptomics"
 				}
 			],
@@ -350,10 +339,7 @@
 			"description": "Meta-information and URLs for downloading raw microarray files",
 			"keywords": [
 				{
-	                "identifier": {
-    	                "identifier": "ilx_0739406",
-        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
-            	    },
+       	            "valueIRI":"http://uri.interlex.org/ilx_0739406",
  					"value" : "transcriptomics"
 				}
 			],
@@ -464,10 +450,7 @@
 			"description": "Neuroanatomical guides for prenatal LMD sample isolation",
 			"keywords": [
 				{
- 	               "identifier": {
-    	                "identifier": "ilx_0739406",
-        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
-            	    },
+       	            "valueIRI":"http://uri.interlex.org/ilx_0739406",
  					"value" : "transcriptomics"
 				}
 			],
@@ -578,10 +561,7 @@
 			"description": "Transcriptional architecture of the primate neocortex",
 			"keywords": [
 				{
-   	             	"identifier": {
-    	                "identifier": "ilx_0739406",
-        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
-            	    },
+       	            "valueIRI":"http://uri.interlex.org/ilx_0739406",
  					"value" : "transcriptomics"
 				}
 			],
@@ -802,10 +782,7 @@
 			"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 2",
 			"keywords": [
 				{
-         	       "identifier": {
-            	        "identifier": "ilx_0739406",
-                	    "identifierSource":"http://uri.interlex.org/ilx_0739406"
-                	},
+               	    "valueIRI":"http://uri.interlex.org/ilx_0739406",
  					"value" : "transcriptomics"
 				}
 			],
@@ -916,10 +893,7 @@
 			"description": "Zipped cerebral MRI images from adult (48 months) rhesus macaque, specimen 3",
 			"keywords": [
 				{
- 	               "identifier": {
-    	                "identifier": "ilx_0739406",
-        	            "identifierSource":"http://uri.interlex.org/ilx_0739406"
-            	    },
+       	            "valueIRI":"http://uri.interlex.org/ilx_0739406",
  					"value" : "transcriptomics"
 				}
 			],
